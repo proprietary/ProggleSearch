@@ -1,3 +1,5 @@
 Pretty self explanatory. Make sure to use the tooltips.
 
+Only works with Firefox and Greasemonkey, for the time being
+
 When the search is in progress, you may want to switch to another window. The requests are done synchronously, in the interests of not crashing the browser, and therefore will block the thread your tab is running on (or so it seems).
