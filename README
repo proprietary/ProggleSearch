@@ -1,3 +1,9 @@
+INSTALLATION
+
+The quickest way, if you have Firefox and Greasemonkey, is to click the .user.js file right above this, and then click ``raw.'' Greasemonkey will handle the rest.
+
+USAGE NOTES
+
 Pretty self explanatory. Make sure to use the tooltips.
 
 Only works with Firefox and Greasemonkey, for the time being
